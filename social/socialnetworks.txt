@@ -1,20 +1,218 @@
+############################################################
+# Corporate Social Networks Block List
+# Version: 1.0
+# Format: HOSTS
+# Compatible: Technitium DNS / Pi-hole / AdGuard Home
+############################################################
+
+############################################################
+# META - FACEBOOK
+############################################################
 0.0.0.0 facebook.com
 0.0.0.0 www.facebook.com
 0.0.0.0 m.facebook.com
+0.0.0.0 mobile.facebook.com
+0.0.0.0 touch.facebook.com
+0.0.0.0 business.facebook.com
+0.0.0.0 developers.facebook.com
 0.0.0.0 fb.com
 0.0.0.0 fb.me
 0.0.0.0 fb.watch
+0.0.0.0 facebook.net
 0.0.0.0 fbcdn.net
-0.0.0.0 static.xx.fbcdn.net
-0.0.0.0 video.xx.fbcdn.net
-0.0.0.0 scontent.xx.fbcdn.net
+0.0.0.0 fbsbx.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 graph.facebook.com
-0.0.0.0 graph.instagram.com
+0.0.0.0 b-graph.facebook.com
 0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 mqtt.facebook.com
 0.0.0.0 lookaside.facebook.com
-0.0.0.0 facebook.net
-0.0.0.0 fbsbx.com
-0.0.0.0 meta.com
-0.0.0.0 meta.ai
+0.0.0.0 static.xx.fbcdn.net
+0.0.0.0 scontent.xx.fbcdn.net
+0.0.0.0 video.xx.fbcdn.net
+0.0.0.0 star.c10r.facebook.com
+
+############################################################
+# INSTAGRAM
+############################################################
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 i.instagram.com
+0.0.0.0 api.instagram.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 cdninstagram.com
+0.0.0.0 ig.me
+0.0.0.0 instagr.am
+
+############################################################
+# THREADS
+############################################################
+0.0.0.0 threads.net
+0.0.0.0 www.threads.net
+
+############################################################
+# MESSENGER
+############################################################
+0.0.0.0 messenger.com
+0.0.0.0 www.messenger.com
+
+############################################################
+# TIKTOK
+############################################################
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokcdn-us.com
+0.0.0.0 tiktokcdn-eu.com
+0.0.0.0 tiktokv.com
+0.0.0.0 tiktokrow-cdn.com
+0.0.0.0 musical.ly
+0.0.0.0 bytedance.com
+0.0.0.0 byteoversea.com
+0.0.0.0 byteimg.com
+0.0.0.0 ibytedtos.com
+0.0.0.0 snssdk.com
+0.0.0.0 isnssdk.com
+0.0.0.0 muscdn.com
+
+############################################################
+# X / TWITTER
+############################################################
+0.0.0.0 x.com
+0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
+0.0.0.0 mobile.twitter.com
+0.0.0.0 api.twitter.com
+0.0.0.0 upload.twitter.com
+0.0.0.0 twimg.com
+0.0.0.0 t.co
+
+############################################################
+# DISCORD
+############################################################
+0.0.0.0 discord.com
+0.0.0.0 www.discord.com
+0.0.0.0 discord.gg
+0.0.0.0 discord.media
+0.0.0.0 discordapp.com
+0.0.0.0 discordapp.net
+0.0.0.0 cdn.discordapp.com
+0.0.0.0 media.discordapp.net
+0.0.0.0 gateway.discord.gg
+
+############################################################
+# REDDIT
+############################################################
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
+0.0.0.0 old.reddit.com
+0.0.0.0 new.reddit.com
+0.0.0.0 redd.it
+0.0.0.0 redditmedia.com
+0.0.0.0 redditstatic.com
+0.0.0.0 preview.redd.it
+0.0.0.0 styles.redditmedia.com
+
+############################################################
+# SNAPCHAT
+############################################################
+0.0.0.0 snapchat.com
+0.0.0.0 www.snapchat.com
+0.0.0.0 app.snapchat.com
+0.0.0.0 accounts.snapchat.com
+0.0.0.0 sc-cdn.net
+
+############################################################
+# PINTEREST
+############################################################
+0.0.0.0 pinterest.com
+0.0.0.0 www.pinterest.com
+0.0.0.0 pin.it
+0.0.0.0 pinimg.com
+
+############################################################
+# LINKEDIN
+############################################################
+0.0.0.0 linkedin.com
+0.0.0.0 www.linkedin.com
+0.0.0.0 business.linkedin.com
+0.0.0.0 learning.linkedin.com
+0.0.0.0 licdn.com
+
+############################################################
+# TWITCH
+############################################################
+0.0.0.0 twitch.tv
+0.0.0.0 www.twitch.tv
+0.0.0.0 api.twitch.tv
+0.0.0.0 clips.twitch.tv
+0.0.0.0 jtvnw.net
+0.0.0.0 ttvnw.net
+
+############################################################
+# BLUESKY
+############################################################
+0.0.0.0 bsky.app
+0.0.0.0 api.bsky.app
+0.0.0.0 public.api.bsky.app
+0.0.0.0 blueskyweb.xyz
+
+############################################################
+# MASTODON
+############################################################
+0.0.0.0 mastodon.social
+0.0.0.0 mastodon.online
+0.0.0.0 mastodon.world
+0.0.0.0 fosstodon.org
+0.0.0.0 mas.to
+
+############################################################
+# TUMBLR
+############################################################
+0.0.0.0 tumblr.com
+0.0.0.0 www.tumblr.com
+0.0.0.0 assets.tumblr.com
+0.0.0.0 media.tumblr.com
+
+############################################################
+# FLICKR
+############################################################
+0.0.0.0 flickr.com
+0.0.0.0 www.flickr.com
+0.0.0.0 staticflickr.com
+
+############################################################
+# VK
+############################################################
+0.0.0.0 vk.com
+0.0.0.0 www.vk.com
+0.0.0.0 userapi.com
+0.0.0.0 vkuser.net
+
+############################################################
+# WEIBO
+############################################################
+0.0.0.0 weibo.com
+0.0.0.0 www.weibo.com
+0.0.0.0 sinaimg.cn
+0.0.0.0 weibo.cn
+
+############################################################
+# KWAI
+############################################################
+0.0.0.0 kwai.com
+0.0.0.0 www.kwai.com
+0.0.0.0 kuaishou.com
+0.0.0.0 gifshow.com
+
+############################################################
+# BEREAL
+############################################################
+0.0.0.0 bere.al
+0.0.0.0 app.bereal.com
+0.0.0.0 storage.bere.al
+
+############################################################
+# END OF FILE
+############################################################
