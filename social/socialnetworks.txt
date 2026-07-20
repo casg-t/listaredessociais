@@ -1,3 +1,4 @@
+#
 # ===============================================================
 
 127.0.0.1 localhost
@@ -90008,6 +90009,34 @@ ff02::3 ip6-allhosts
 0.0.0.0 z-p42-scontent.cdninstagram.com
 0.0.0.0 z-p42-static.cdninstagram.com
 0.0.0.0 scontent.fallback.cdninstagram.com
+
+
+0.0.0.0 whatsapp-cdn-shv-01-arn2.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-atl1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-bom1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-cdg2.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-dft4.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-dfw1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-dfw5.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-frt3.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-gru2.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-hkg3.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-iad3.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-kut2.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-lax1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-lax3.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-lga1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-lhr3.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-mad1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-mia1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-ord1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-sea1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-sin1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-sin6.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-sit4.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-sjc2.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-vie1.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-02-sin6.fbcdn.net
 
 # Threads
 0.0.0.0 threads.net
