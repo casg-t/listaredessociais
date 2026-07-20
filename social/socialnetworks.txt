@@ -35,6 +35,31 @@
 ############################################################
 # INSTAGRAM
 ############################################################
+0.0.0.0 threads.net
+0.0.0.0 www.threads.net
+0.0.0.0 threads.com
+0.0.0.0 www.threads.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 b-graph.facebook.com
+0.0.0.0 accounts.meta.com
+0.0.0.0 accountscenter.instagram.com
+0.0.0.0 accountscenter.facebook.com
+0.0.0.0 reels.instagram.com
+0.0.0.0 live.instagram.com
+0.0.0.0 music.instagram.com
+0.0.0.0 upload.instagram.com
+0.0.0.0 explore.instagram.com
+0.0.0.0 search.instagram.com
+0.0.0.0 hashtags.instagram.com
+0.0.0.0 mqtt.instagram.com
+0.0.0.0 mqtt.facebook.com
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 msg.instagram.com
+0.0.0.0 lookaside.fbsbx.com
+0.0.0.0 lookaside.facebook.com
+0.0.0.0 audio.cdninstagram.com
+0.0.0.0 avatar.cdninstagram.com
 0.0.0.0 a.ns.cdninstagram.com
 0.0.0.0 api.instagram.com
 0.0.0.0 b.ns.cdninstagram.com
