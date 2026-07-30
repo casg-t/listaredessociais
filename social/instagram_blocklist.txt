@@ -1,5 +1,5 @@
 # ============================================
-# Meta Ecosystem Clean Blocklist
+# Meta Ecosystem Clean Blocklist (No WhatsApp)
 # Otimizado para Technitium DNS Server
 # App: Advanced Blocking (Sem Duplicatas)
 # Última atualização: 2026-07-30
@@ -42,49 +42,49 @@ wwwinstagram.com
 # ============================================
 # INSTAGRAM APIS & SUBDOMÍNIOS
 # ============================================
-api.instagram.com
-graph.instagram.com
-platform.instagram.com
-help.instagram.com
-business.instagram.com
-accountscenter.instagram.com
-upload.instagram.com
-download.instagram.com
-live.instagram.com
-reels.instagram.com
-explore.instagram.com
-search.instagram.com
-hashtags.instagram.com
-msg.instagram.com
-music.instagram.com
+://instagram.com
+://instagram.com
+://instagram.com
+://instagram.com
+://instagram.com
+://instagram.com
+://instagram.com
+://instagram.com
+://instagram.com
+://instagram.com
+://instagram.com
+://instagram.com
+://instagram.com
+://instagram.com
+://instagram.com
 telegraph-*.instagram.com
-edge-chat.instagram.com
-mqtt.instagram.com
+://instagram.com
+://instagram.com
 
 # ============================================
 # INSTAGRAM CDNS & INFRAESTRUTURA
 # ============================================
-i.instagram.com
-l.instagram.com
-b.i.instagram.com
-gateway.instagram.com
-instagram.c10r.instagram.com
-static.cdninstagram.com
-video.cdninstagram.com
+://instagram.com
+://instagram.com
+b.://instagram.com
+://instagram.com
+://instagram.com
+://cdninstagram.com
+://cdninstagram.com
 video-*.cdninstagram.com
-creative.cdninstagram.com
-avatar.cdninstagram.com
-audio.cdninstagram.com
-images.instagram.com
-images.ak.instagram.com
+://cdninstagram.com
+://cdninstagram.com
+://cdninstagram.com
+://instagram.com
+://instagram.com
 photos-*.ak.instagram.com
-scontent.cdninstagram.com
+://cdninstagram.com
 scontent-*.cdninstagram.com
-scontent-lga3-1.cdninstagram.com
-scontent-ort2-2.cdninstagram.com
+://cdninstagram.com
+://cdninstagram.com
 z-p-*.cdninstagram.com
 external-*.cdninstagram.com
-platform.cdninstagram.com
+://cdninstagram.com
 instagram-shv-*.fbcdn.net
 instagram-static.akamaized.net
 instagram-press.akamaized.net
@@ -93,33 +93,33 @@ instagram-press.akamaized.net
 # FACEBOOK CORE & MESSENGER
 # ============================================
 facebook.com
-www.facebook.com
+://facebook.com
 fb.com
 fb.me
 m.me
 messenger.com
-www.messenger.com
-web.messenger.com
-apps.messenger.com
+://messenger.com
+://messenger.com
+://messenger.com
 *.messenger.com
 
 # ============================================
 # FACEBOOK APIS & PLATAFORMA
 # ============================================
-graph.facebook.com
-graph-video.facebook.com
-api.facebook.com
-b-graph.facebook.com
+://facebook.com
+://facebook.com
+://facebook.com
+b-://facebook.com
 connect.facebook.net
-platform.facebook.com
-developers.facebook.com
+://facebook.com
+://facebook.com
 developers.facebook.net
-pages-api.facebook.com
-accountscenter.facebook.com
-accounts.meta.com
-pixel.facebook.com
-gateway.facebook.com
-star.c10r.facebook.com
+pages-://facebook.com
+://facebook.com
+://meta.com
+://facebook.com
+://facebook.com
+://facebook.com
 
 # ============================================
 # META CDNS & REDE SHARED
@@ -128,8 +128,8 @@ fbcdn.net
 *.fbcdn.net
 fbsbx.com
 *.fbsbx.com
-lookaside.fbsbx.com
-lookaside.facebook.com
+://fbsbx.com
+://facebook.com
 scontent.xx.fbcdn.net
 scontent-*.fbcdn.net
 scontent-*.xx.fbcdn.net
@@ -145,15 +145,15 @@ akamaihd.net
 # ============================================
 # REQUISITOS EM TEMPO REAL & MQTT
 # ============================================
-edge-mqtt.facebook.com
-mqtt.facebook.com
-mqtt-mini.facebook.com
-edge-mqtt-mini.facebook.com
-edge-mqtt-fallback.facebook.com
-z-p42-chat-e2ee-ig.facebook.com
-z-p42-chat-e2ee-ig-fallback.facebook.com
-chat-e2ee-ig-p42.c10r.facebook.com
-mqtt-ig-p4.facebook.com
+://facebook.com
+://facebook.com
+://facebook.com
+edge-://facebook.com
+://facebook.com
+://facebook.com
+://facebook.com
+://facebook.com
+://facebook.com
 
 # ============================================
 # FACEBOOK TLD VARIANTES REGIONAIS
