@@ -1,0 +1,100 @@
+# ============================================
+# Instagram Complete Blocklist
+# Para uso no Technitium DNS Server
+# Advanced Blocking App
+# ============================================
+# Última atualização: 2026-07-30
+# ============================================
+
+# ============================================
+# DOMÍNIOS PRINCIPAIS
+# ============================================
+instagram.com
+instagr.am
+ig.me
+cdninstagram.com
+
+# ============================================
+# SUBDOMÍNIOS DE SERVIÇO E API
+# ============================================
+api.instagram.com
+graph.instagram.com
+graph.facebook.com
+platform.instagram.com
+help.instagram.com
+business.instagram.com
+accountscenter.instagram.com
+accountscenter.facebook.com
+accounts.meta.com
+upload.instagram.com
+live.instagram.com
+reels.instagram.com
+explore.instagram.com
+search.instagram.com
+hashtags.instagram.com
+msg.instagram.com
+music.instagram.com
+telegraph-*.instagram.com
+
+# ============================================
+# CDN E INFRAESTRUTURA
+# ============================================
+i.instagram.com
+l.instagram.com
+static.cdninstagram.com
+video.cdninstagram.com
+video-*.cdninstagram.com
+creative.cdninstagram.com
+avatar.cdninstagram.com
+audio.cdninstagram.com
+images.instagram.com
+images.ak.instagram.com
+photos-*.ak.instagram.com
+scontent-*.cdninstagram.com
+z-p-*.cdninstagram.com
+external-*.cdninstagram.com
+platform.cdninstagram.com
+instagram-shv-*.fbcdn.net
+
+# ============================================
+# DOMÍNIOS DA META (FACEBOOK)
+# ============================================
+fbcdn.net
+*.fbcdn.net
+fbsbx.com
+*.fbsbx.com
+lookaside.fbsbx.com
+lookaside.facebook.com
+edge-chat.instagram.com
+edge-mqtt.facebook.com
+mqtt.facebook.com
+mqtt.instagram.com
+b-graph.facebook.com
+graph.facebook.com
+connect.facebook.net
+api.facebook.com
+pixel.facebook.com
+
+# ============================================
+# DOMÍNIOS DE TERCEIROS E VARIANTES
+# ============================================
+igimages.com
+igsonar.com
+instagram-brand.com
+instagram-engineering.com
+instagram-press.com
+instagram-press.net
+instagramci.com
+instagramcn.com
+instagramdi.com
+instagramhelp.com
+instagramium.com
+instagramm.com
+instagramn.com
+instagramq.com
+instagramtr.com
+onlineinstagram.com
+web-instagram.net
+wwwinstagram.com
+instagram-static.akamaized.net
+instagram-press.akamaized.net
