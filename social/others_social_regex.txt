@@ -58,3 +58,51 @@
 (^|\.)redditmedia\.com
 (^|\.)redditstatic\.com
 (^|\.)redditcdn\.com
+
+# ============================================
+# KWAI REGEX BLOCKLIST
+# ============================================
+(^|\.)kwai\.com
+(^|\.)kwai\.net
+(^|\.)kwai\.org
+(^|\.)kwai\.co
+(^|\.)kwai\.me
+(^|\.)kwai\.tv
+(^|\.)kwai\.fun
+(^|\.)kwai\.live
+(^|\.)kwai\.news
+(^|\.)kwai\.media
+(^|\.)kwai\.video
+(^|\.)kwai\.music
+(^|\.)kwai\.games
+(^|\.)kwai\.shop
+(^|\.)kwai\.tech
+(^|\.)kwai\.cloud
+(^|\.)kwai\.ai
+(^|\.)kwai\.io
+(^|\.)kwai\.dev
+(^|\.)kwai\.app
+
+# ============================================
+# CDN E INFRAESTRUTURA
+# ============================================
+(^|\.)kwaicdn\.com
+(^|\.)kwaicdn\.net
+(^|\.)kwai-static\.com
+(^|\.)kwai-static\.net
+(^|\.)kwai-video\.com
+(^|\.)kwai-video\.net
+(^|\.)kwai-cdn\.com
+(^|\.)kwai-cdn\.net
+(^|\.)kwai\.[a-z]{2,6}
+(^|\.)kwai\.[a-z]{2}\.[a-z]{2}
+
+# ============================================
+# TODOS OS SUBDOMÍNIOS E VARIAÇÕES
+# ============================================
+(^|\.).*\.kwai\.com
+(^|\.).*\.kwai\.net
+(^|\.).*\.kwai\.org
+(^|\.).*\.kwai\.co
+(^|\.).*\.kwaicdn\.com
+(^|\.).*\.kwaicdn\.net
