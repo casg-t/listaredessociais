@@ -74,6 +74,7 @@ graph.facebook.com
 connect.facebook.net
 api.facebook.com
 pixel.facebook.com
+gateway.facebook.com
 
 # ============================================
 # DOMÍNIOS DE TERCEIROS E VARIANTES
