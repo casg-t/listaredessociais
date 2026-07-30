@@ -1,90 +1,27 @@
 # ============================================
-# Instagram Complete Blocklist
-# Para uso no Technitium DNS Server
-# Advanced Blocking App
-# ============================================
+# Meta Ecosystem Clean Blocklist
+# Otimizado para Technitium DNS Server
+# App: Advanced Blocking (Sem Duplicatas)
 # Última atualização: 2026-07-30
 # ============================================
 
 # ============================================
-# DOMÍNIOS PRINCIPAIS
+# INSTAGRAM CORE & VARIANTES
 # ============================================
 instagram.com
 instagr.am
 ig.me
 cdninstagram.com
-
-# ============================================
-# SUBDOMÍNIOS DE SERVIÇO E API
-# ============================================
-api.instagram.com
-graph.instagram.com
-graph.facebook.com
-platform.instagram.com
-help.instagram.com
-business.instagram.com
-accountscenter.instagram.com
-accountscenter.facebook.com
-accounts.meta.com
-upload.instagram.com
-live.instagram.com
-reels.instagram.com
-explore.instagram.com
-search.instagram.com
-hashtags.instagram.com
-msg.instagram.com
-music.instagram.com
-telegraph-*.instagram.com
-
-# ============================================
-# CDN E INFRAESTRUTURA
-# ============================================
-i.instagram.com
-l.instagram.com
-static.cdninstagram.com
-video.cdninstagram.com
-video-*.cdninstagram.com
-creative.cdninstagram.com
-avatar.cdninstagram.com
-audio.cdninstagram.com
-images.instagram.com
-images.ak.instagram.com
-photos-*.ak.instagram.com
-scontent-*.cdninstagram.com
-z-p-*.cdninstagram.com
-external-*.cdninstagram.com
-platform.cdninstagram.com
-instagram-shv-*.fbcdn.net
-
-# ============================================
-# DOMÍNIOS DA META (FACEBOOK)
-# ============================================
-fbcdn.net
-*.fbcdn.net
-fbsbx.com
-*.fbsbx.com
-lookaside.fbsbx.com
-lookaside.facebook.com
-edge-chat.instagram.com
-edge-mqtt.facebook.com
-mqtt.facebook.com
-mqtt.instagram.com
-b-graph.facebook.com
-graph.facebook.com
-connect.facebook.net
-api.facebook.com
-pixel.facebook.com
-gateway.facebook.com
-star.c10r.facebook.com
-z-p42-chat-e2ee-ig.facebook.com
-edge-mqtt-fallback.facebook.com
-chat-e2ee-ig-p42.c10r.facebook.com
-
-# ============================================
-# DOMÍNIOS DE TERCEIROS E VARIANTES
-# ============================================
-igimages.com
+instagram.org
+instagram.tv
+igtv.com
+igcdn.com
 igsonar.com
+threads.net
+instragram.com
+intagram.com
+instgram.com
+igimages.com
 instagram-brand.com
 instagram-engineering.com
 instagram-press.com
@@ -101,11 +38,59 @@ instagramtr.com
 onlineinstagram.com
 web-instagram.net
 wwwinstagram.com
+
+# ============================================
+# INSTAGRAM APIS & SUBDOMÍNIOS
+# ============================================
+api.instagram.com
+graph.instagram.com
+platform.instagram.com
+help.instagram.com
+business.instagram.com
+accountscenter.instagram.com
+upload.instagram.com
+download.instagram.com
+live.instagram.com
+reels.instagram.com
+explore.instagram.com
+search.instagram.com
+hashtags.instagram.com
+msg.instagram.com
+music.instagram.com
+telegraph-*.instagram.com
+edge-chat.instagram.com
+mqtt.instagram.com
+
+# ============================================
+# INSTAGRAM CDNS & INFRAESTRUTURA
+# ============================================
+i.instagram.com
+l.instagram.com
+b.i.instagram.com
+gateway.instagram.com
+instagram.c10r.instagram.com
+static.cdninstagram.com
+video.cdninstagram.com
+video-*.cdninstagram.com
+creative.cdninstagram.com
+avatar.cdninstagram.com
+audio.cdninstagram.com
+images.instagram.com
+images.ak.instagram.com
+photos-*.ak.instagram.com
+scontent.cdninstagram.com
+scontent-*.cdninstagram.com
+scontent-lga3-1.cdninstagram.com
+scontent-ort2-2.cdninstagram.com
+z-p-*.cdninstagram.com
+external-*.cdninstagram.com
+platform.cdninstagram.com
+instagram-shv-*.fbcdn.net
 instagram-static.akamaized.net
 instagram-press.akamaized.net
 
 # ============================================
-# FACEBOOK COMPLETE BLOCKLIST
+# FACEBOOK CORE & MESSENGER
 # ============================================
 facebook.com
 www.facebook.com
@@ -114,6 +99,65 @@ fb.me
 m.me
 messenger.com
 www.messenger.com
+web.messenger.com
+apps.messenger.com
+*.messenger.com
+
+# ============================================
+# FACEBOOK APIS & PLATAFORMA
+# ============================================
+graph.facebook.com
+graph-video.facebook.com
+api.facebook.com
+b-graph.facebook.com
+connect.facebook.net
+platform.facebook.com
+developers.facebook.com
+developers.facebook.net
+pages-api.facebook.com
+accountscenter.facebook.com
+accounts.meta.com
+pixel.facebook.com
+gateway.facebook.com
+star.c10r.facebook.com
+
+# ============================================
+# META CDNS & REDE SHARED
+# ============================================
+fbcdn.net
+*.fbcdn.net
+fbsbx.com
+*.fbsbx.com
+lookaside.fbsbx.com
+lookaside.facebook.com
+scontent.xx.fbcdn.net
+scontent-*.fbcdn.net
+scontent-*.xx.fbcdn.net
+static.xx.fbcdn.net
+static.fbcdn.net
+external-*.fbcdn.net
+z-p-*.fbcdn.net
+*.c10r.facebook.com
+*.c10r.fbcdn.net
+akamaihd.net
+*.akamaihd.net
+
+# ============================================
+# REQUISITOS EM TEMPO REAL & MQTT
+# ============================================
+edge-mqtt.facebook.com
+mqtt.facebook.com
+mqtt-mini.facebook.com
+edge-mqtt-mini.facebook.com
+edge-mqtt-fallback.facebook.com
+z-p42-chat-e2ee-ig.facebook.com
+z-p42-chat-e2ee-ig-fallback.facebook.com
+chat-e2ee-ig-p42.c10r.facebook.com
+mqtt-ig-p4.facebook.com
+
+# ============================================
+# FACEBOOK TLD VARIANTES REGIONAIS
+# ============================================
 facebook.co
 facebook.tv
 facebook.live
@@ -127,56 +171,6 @@ facebook.dev
 facebook.app
 facebook.net
 facebook.org
-
-# ============================================
-# CDN E INFRAESTRUTURA
-# ============================================
-fbcdn.net
-*.fbcdn.net
-fbsbx.com
-*.fbsbx.com
-lookaside.fbsbx.com
-lookaside.facebook.com
-scontent-*.fbcdn.net
-scontent-*.xx.fbcdn.net
-static.xx.fbcdn.net
-static.fbcdn.net
-external-*.fbcdn.net
-z-p-*.fbcdn.net
-instagram-shv-*.fbcdn.net
-*.c10r.facebook.com
-*.c10r.fbcdn.net
-akamaihd.net
-*.akamaihd.net
-
-# ============================================
-# API E PLATAFORMA
-# ============================================
-graph.facebook.com
-graph-video.facebook.com
-api.facebook.com
-b-graph.facebook.com
-connect.facebook.net
-platform.facebook.com
-developers.facebook.com
-developers.facebook.net
-pages-api.facebook.com
-
-# ============================================
-# FACEBOOK MESSENGER
-# ============================================
-edge-mqtt.facebook.com
-mqtt.facebook.com
-mqtt-mini.facebook.com
-edge-mqtt-mini.facebook.com
-messenger.com
-web.messenger.com
-apps.messenger.com
-*.messenger.com
-
-# ============================================
-# VARIANTES E DOMÍNIOS ADICIONAIS
-# ============================================
 facebook.com.br
 facebook.com.au
 facebook.co.uk
@@ -196,8 +190,10 @@ facebook.ar
 facebook.cl
 facebook.dk
 facebook.pl
-facebook.co
-facebook.live
+
+# ============================================
+# OUTROS SITES E ADQUIRIDOS PELA META
+# ============================================
 facebookstories.com
 facebookgroups.com
 facebookmarketingpartners.com
@@ -212,10 +208,6 @@ faceboook.com
 facbook.com
 facecook.com
 faceboo.com
-instragram.com
-intagram.com
-instgram.com
-igsonar.com
 internet.org
 freebasics.com
 atlassolutions.com
