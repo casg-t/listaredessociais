@@ -103,3 +103,129 @@ web-instagram.net
 wwwinstagram.com
 instagram-static.akamaized.net
 instagram-press.akamaized.net
+
+# ============================================
+# FACEBOOK COMPLETE BLOCKLIST
+# ============================================
+facebook.com
+www.facebook.com
+fb.com
+fb.me
+m.me
+messenger.com
+www.messenger.com
+facebook.co
+facebook.tv
+facebook.live
+facebook.news
+facebook.video
+facebook.shop
+facebook.tech
+facebook.ai
+facebook.io
+facebook.dev
+facebook.app
+facebook.net
+facebook.org
+
+# ============================================
+# CDN E INFRAESTRUTURA
+# ============================================
+fbcdn.net
+*.fbcdn.net
+fbsbx.com
+*.fbsbx.com
+lookaside.fbsbx.com
+lookaside.facebook.com
+scontent-*.fbcdn.net
+scontent-*.xx.fbcdn.net
+static.xx.fbcdn.net
+static.fbcdn.net
+external-*.fbcdn.net
+z-p-*.fbcdn.net
+instagram-shv-*.fbcdn.net
+*.c10r.facebook.com
+*.c10r.fbcdn.net
+akamaihd.net
+*.akamaihd.net
+
+# ============================================
+# API E PLATAFORMA
+# ============================================
+graph.facebook.com
+graph-video.facebook.com
+api.facebook.com
+b-graph.facebook.com
+connect.facebook.net
+platform.facebook.com
+developers.facebook.com
+developers.facebook.net
+pages-api.facebook.com
+
+# ============================================
+# FACEBOOK MESSENGER
+# ============================================
+edge-mqtt.facebook.com
+mqtt.facebook.com
+mqtt-mini.facebook.com
+edge-mqtt-mini.facebook.com
+messenger.com
+web.messenger.com
+apps.messenger.com
+*.messenger.com
+
+# ============================================
+# VARIANTES E DOMÍNIOS ADICIONAIS
+# ============================================
+facebook.com.br
+facebook.com.au
+facebook.co.uk
+facebook.de
+facebook.es
+facebook.fr
+facebook.it
+facebook.jp
+facebook.kr
+facebook.mx
+facebook.nl
+facebook.se
+facebook.sg
+facebook.in
+facebook.za
+facebook.ar
+facebook.cl
+facebook.dk
+facebook.pl
+facebook.co
+facebook.live
+facebookstories.com
+facebookgroups.com
+facebookmarketingpartners.com
+facebookpartners.com
+facebookawards.com
+facebook-pmdcenter.com
+facebookinnovation.com
+facebooklive.com
+thefacebook.com
+facebok.com
+faceboook.com
+facbook.com
+facecook.com
+faceboo.com
+instragram.com
+intagram.com
+instgram.com
+igsonar.com
+internet.org
+freebasics.com
+atlassolutions.com
+oculus.com
+oculusvr.com
+wit.ai
+friendfeed.com
+friendfeed-media.com
+applinks.org
+thefind.com
+liverail.com
+n888688.com
+heji32.com
