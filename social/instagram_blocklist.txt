@@ -75,6 +75,10 @@ connect.facebook.net
 api.facebook.com
 pixel.facebook.com
 gateway.facebook.com
+star.c10r.facebook.com
+z-p42-chat-e2ee-ig.facebook.com
+edge-mqtt-fallback.facebook.com
+chat-e2ee-ig-p42.c10r.facebook.com
 
 # ============================================
 # DOMÍNIOS DE TERCEIROS E VARIANTES
