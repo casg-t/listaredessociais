@@ -97,3 +97,65 @@
 (^|\.)wwwinstagram\.com
 (^|\.)instagram-static\.akamaized\.net
 (^|\.)instagram-press\.akamaized\.net
+
+# ============================================
+# FACEBOOK REGEX BLOCKLIST
+# ============================================
+(^|\.)facebook\.com
+(^|\.)fb\.com
+(^|\.)fb\.me
+(^|\.)m\.me
+(^|\.)messenger\.com
+
+# ============================================
+# CDN E INFRAESTRUTURA
+# ============================================
+(^|\.)fbcdn\.net
+(^|\.)fbsbx\.com
+(^|\.)lookaside\.fbsbx\.com
+(^|\.)lookaside\.facebook\.com
+(^|\.)scontent-.*\.fbcdn\.net
+(^|\.)scontent-.*\.xx\.fbcdn\.net
+(^|\.)static\..*\.fbcdn\.net
+(^|\.)external-.*\.fbcdn\.net
+(^|\.)z-p-.*\.fbcdn\.net
+(^|\.)instagram-shv-.*\.fbcdn\.net
+(^|\.)c10r\..*\.facebook\.com
+
+# ============================================
+# API E PLATAFORMA
+# ============================================
+(^|\.)graph\.facebook\.com
+(^|\.)graph-video\.facebook\.com
+(^|\.)api\.facebook\.com
+(^|\.)b-graph\.facebook\.com
+(^|\.)connect\.facebook\.net
+(^|\.)platform\.facebook\.com
+(^|\.)developers\.facebook\.com
+
+# ============================================
+# MESSENGER
+# ============================================
+(^|\.)edge-mqtt\.facebook\.com
+(^|\.)mqtt\.facebook\.com
+(^|\.)mqtt-mini\.facebook\.com
+(^|\.)edge-mqtt-mini\.facebook\.com
+(^|\.)web\.messenger\.com
+(^|\.)apps\.messenger\.com
+
+# ============================================
+# VARIANTES
+# ============================================
+(^|\.)facebookstories\.com
+(^|\.)facebookgroups\.com
+(^|\.)facebookmarketingpartners\.com
+(^|\.)facebookpartners\.com
+(^|\.)facebooklive\.com
+(^|\.)thefacebook\.com
+(^|\.)internet\.org
+(^|\.)freebasics\.com
+(^|\.)oculus\.com
+(^|\.)oculusvr\.com
+(^|\.)wit\.ai
+(^|\.)friendfeed\.com
+(^|\.)igsonar\.com
