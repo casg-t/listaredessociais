@@ -1,0 +1,60 @@
+# ============================================
+# COMPLETE SOCIAL MEDIA REGEX BLOCKLIST
+# Para Technitium DNS Server - Advanced Blocking
+# ============================================
+# Redes: TikTok, LinkedIn, YouTube, Twitter/X,
+# Snapchat, Pinterest, Reddit, WhatsApp, Telegram
+# ============================================
+# Última atualização: 2026-07-30
+# ============================================
+
+# ============================================
+# TIKTOK
+# ============================================
+(^|\.)tiktok\.com
+(^|\.)tiktokv\.com
+(^|\.)muscdn\.com
+(^|\.)tiktokcdn\.com
+(^|\.)tiktok\.org
+(^|\.)tiktok\.global
+(^|\.)tiktokcdn-us\.com
+(^|\.)tiktokcdn-ak\.akamaized\.net
+(^|\.)bytedance\.com
+(^|\.)douyin\.com
+(^|\.)iesdouyin\.com
+(^|\.)snssdk\.com
+(^|\.)musical\.ly
+
+# ============================================
+# LINKEDIN
+# ============================================
+(^|\.)linkedin\.com
+(^|\.)lnkd\.in
+
+# ============================================
+# TWITTER / X
+# ============================================
+(^|\.)twitter\.com
+(^|\.)x\.com
+(^|\.)twimg\.com
+(^|\.)t\.co
+
+# ============================================
+# SNAPCHAT
+# ============================================
+(^|\.)snapchat\.com
+(^|\.)sc-cdn\.net
+(^|\.)snapads\.com
+(^|\.)snap\.com
+(^|\.)snapkit\.co
+(^|\.)snapkit\.com
+(^|\.)snapkit\.io
+
+# ============================================
+# REDDIT
+# ============================================
+(^|\.)reddit\.com
+(^|\.)redd\.it
+(^|\.)redditmedia\.com
+(^|\.)redditstatic\.com
+(^|\.)redditcdn\.com
