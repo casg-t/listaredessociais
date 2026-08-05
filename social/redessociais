@@ -107912,6 +107912,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zh-tw.facebook.com
 
 # Instagram
+0.0.0.0 instagra.com
 0.0.0.0 a.ns.cdninstagram.com
 0.0.0.0 api.instagram.com
 0.0.0.0 b.ns.cdninstagram.com
