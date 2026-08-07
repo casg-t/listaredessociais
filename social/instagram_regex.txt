@@ -5,130 +5,260 @@
 
 # ---------- Instagram ----------
 
-(^|.*\.)instagram\.com$
-(^|.*\.)instagr\.am$
-(^|.*\.)ig\.me$
-(^|.*\.)cdninstagram\.com$
+(^|.*\\.)instagram\.com$
+(^|.*\\.)instagr\.am$
+(^|.*\\.)ig\.me$
+(^|.*\\.)cdninstagram\.com$
 
-(^|.*\.)api\.instagram\.com$
-(^|.*\.)graph\.instagram\.com$
-(^|.*\.)platform\.instagram\.com$
-(^|.*\.)help\.instagram\.com$
-(^|.*\.)business\.instagram\.com$
-(^|.*\.)accountscenter\.instagram\.com$
-(^|.*\.)upload\.instagram\.com$
-(^|.*\.)live\.instagram\.com$
-(^|.*\.)reels\.instagram\.com$
-(^|.*\.)explore\.instagram\.com$
-(^|.*\.)search\.instagram\.com$
-(^|.*\.)hashtags\.instagram\.com$
-(^|.*\.)msg\.instagram\.com$
-(^|.*\.)music\.instagram\.com$
-(^|.*\.)logger\.instagram\.com$
+(^|.*\\.)api\.instagram\.com$
+(^|.*\\.)graph\.instagram\.com$
+(^|.*\\.)platform\.instagram\.com$
+(^|.*\\.)help\.instagram\.com$
+(^|.*\\.)business\.instagram\.com$
+(^|.*\\.)accountscenter\.instagram\.com$
+(^|.*\\.)upload\.instagram\.com$
+(^|.*\\.)live\.instagram\.com$
+(^|.*\\.)reels\.instagram\.com$
+(^|.*\\.)explore\.instagram\.com$
+(^|.*\\.)search\.instagram\.com$
+(^|.*\\.)hashtags\.instagram\.com$
+(^|.*\\.)msg\.instagram\.com$
+(^|.*\\.)music\.instagram\.com$
+(^|.*\\.)logger\.instagram\.com$
 
-(^|.*\.)i\.instagram\.com$
-(^|.*\.)l\.instagram\.com$
+(^|.*\\.)i\.instagram\.com$
+(^|.*\\.)l\.instagram\.com$
 
-(^|.*\.)static\.cdninstagram\.com$
-(^|.*\.)video\.cdninstagram\.com$
-(^|.*\.)video-[a-z0-9-]+\.cdninstagram\.com$
-(^|.*\.)creative\.cdninstagram\.com$
-(^|.*\.)avatar\.cdninstagram\.com$
-(^|.*\.)audio\.cdninstagram\.com$
+(^|.*\\.)static\.cdninstagram\.com$
+(^|.*\\.)video\.cdninstagram\.com$
+(^|.*\\.)video-[a-z0-9-]+\.cdninstagram\.com$
+(^|.*\\.)creative\.cdninstagram\.com$
+(^|.*\\.)avatar\.cdninstagram\.com$
+(^|.*\\.)audio\.cdninstagram\.com$
 
-(^|.*\.)images\.instagram\.com$
-(^|.*\.)images\.ak\.instagram\.com$
-(^|.*\.)photos-[a-z]\.ak\.instagram\.com$
+(^|.*\\.)images\.instagram\.com$
+(^|.*\\.)images\.ak\.instagram\.com$
+(^|.*\\.)photos-[a-z]\.ak\.instagram\.com$
 
-(^|.*\.)scontent.*\.cdninstagram\.com$
-(^|.*\.)z-p.*\.cdninstagram\.com$
-(^|.*\.)external.*\.cdninstagram\.com$
-(^|.*\.)platform\.cdninstagram\.com$
+(^|.*\\.)scontent.*\.cdninstagram\.com$
+(^|.*\\.)z-p.*\.cdninstagram\.com$
+(^|.*\\.)external.*\.cdninstagram\.com$
+(^|.*\\.)platform\.cdninstagram\.com$
 
-(^|.*\.)instagram-shv.*\.fbcdn\.net$
-(^|.*\.)telegraph-.*\.instagram\.com$
+(^|.*\\.)instagram-shv.*\.fbcdn\.net$
+(^|.*\\.)telegraph-.*\.instagram\.com$
 
 # ---------- Meta ----------
 
-(^|.*\.)meta\.com$
-(^|.*\.)meta\.ai$
-(^|.*\.)accounts\.meta\.com$
+(^|.*\\.)meta\.com$
+(^|.*\\.)meta\.ai$
+(^|.*\\.)accounts\.meta\.com$
 
 # ---------- Facebook ----------
 
-(^|.*\.)facebook\.com$
-(^|.*\.)fb\.com$
-(^|.*\.)fb\.me$
-(^|.*\.)m\.me$
-(^|.*\.)messenger\.com$
+(^|.*\\.)facebook\.com$
+(^|.*\\.)fb\.com$
+(^|.*\\.)fb\.me$
+(^|.*\\.)m\.me$
+(^|.*\\.)messenger\.com$
 
-(^|.*\.)graph\.facebook\.com$
-(^|.*\.)graph-video\.facebook\.com$
-(^|.*\.)api\.facebook\.com$
-(^|.*\.)b-graph\.facebook\.com$
+(^|.*\\.)graph\.facebook\.com$
+(^|.*\\.)graph-video\.facebook\.com$
+(^|.*\\.)api\.facebook\.com$
+(^|.*\\.)b-graph\.facebook\.com$
 
-(^|.*\.)connect\.facebook\.net$
-(^|.*\.)platform\.facebook\.com$
-(^|.*\.)developers\.facebook\.com$
+(^|.*\\.)connect\.facebook\.net$
+(^|.*\\.)platform\.facebook\.com$
+(^|.*\\.)developers\.facebook\.com$
 
-(^|.*\.)edge-mqtt\.facebook\.com$
-(^|.*\.)mqtt\.facebook\.com$
-(^|.*\.)mqtt-mini\.facebook\.com$
-(^|.*\.)edge-mqtt-mini\.facebook\.com$
+(^|.*\\.)edge-mqtt\.facebook\.com$
+(^|.*\\.)mqtt\.facebook\.com$
+(^|.*\\.)mqtt-mini\.facebook\.com$
+(^|.*\\.)edge-mqtt-mini\.facebook\.com$
 
-(^|.*\.)web\.messenger\.com$
-(^|.*\.)apps\.messenger\.com$
+(^|.*\\.)web\.messenger\.com$
+(^|.*\\.)apps\.messenger\.com$
 
 # ---------- CDN Facebook ----------
 
-(^|.*\.)fbcdn\.net$
-(^|.*\.)fbsbx\.com$
-(^|.*\.)lookaside\.fbsbx\.com$
-(^|.*\.)lookaside\.facebook\.com$
+(^|.*\\.)fbcdn\.net$
+(^|.*\\.)fbsbx\.com$
+(^|.*\\.)lookaside\.fbsbx\.com$
+(^|.*\\.)lookaside\.facebook\.com$
 
-(^|.*\.)scontent-.*\.fbcdn\.net$
-(^|.*\.)scontent-.*\.xx\.fbcdn\.net$
-(^|.*\.)static\..*\.fbcdn\.net$
-(^|.*\.)external-.*\.fbcdn\.net$
-(^|.*\.)z-p-.*\.fbcdn\.net$
+(^|.*\\.)scontent-.*\.fbcdn\.net$
+(^|.*\\.)scontent-.*\.xx\.fbcdn\.net$
+(^|.*\\.)static\..*\.fbcdn\.net$
+(^|.*\\.)external-.*\.fbcdn\.net$
+(^|.*\\.)z-p-.*\.fbcdn\.net$
 
 # ---------- Threads ----------
 
-(^|.*\.)threads\.net$
-(^|.*\.)threads\.com$
+(^|.*\\.)threads\.net$
+(^|.*\\.)threads\.com$
 
 # ---------- Outros ----------
 
-(^|.*\.)igimages\.com$
-(^|.*\.)igsonar\.com$
-(^|.*\.)instagram-brand\.com$
-(^|.*\.)instagram-engineering\.com$
-(^|.*\.)instagram-press\.com$
-(^|.*\.)instagram-press\.net$
-(^|.*\.)instagramci\.com$
-(^|.*\.)instagramcn\.com$
-(^|.*\.)instagramdi\.com$
-(^|.*\.)instagramhelp\.com$
-(^|.*\.)instagramium\.com$
-(^|.*\.)instagramm\.com$
-(^|.*\.)instagramn\.com$
-(^|.*\.)instagramq\.com$
-(^|.*\.)instagramtr\.com$
-(^|.*\.)onlineinstagram\.com$
-(^|.*\.)web-instagram\.net$
-(^|.*\.)wwwinstagram\.com$
-(^|.*\.)instagram-static\.akamaized\.net$
-(^|.*\.)instagram-press\.akamaized\.net$
+(^|.*\\.)igimages\.com$
+(^|.*\\.)igsonar\.com$
+(^|.*\\.)instagram-brand\.com$
+(^|.*\\.)instagram-engineering\.com$
+(^|.*\\.)instagram-press\.com$
+(^|.*\\.)instagram-press\.net$
+(^|.*\\.)instagramci\.com$
+(^|.*\\.)instagramcn\.com$
+(^|.*\\.)instagramdi\.com$
+(^|.*\\.)instagramhelp\.com$
+(^|.*\\.)instagramium\.com$
+(^|.*\\.)instagramm\.com$
+(^|.*\\.)instagramn\.com$
+(^|.*\\.)instagramq\.com$
+(^|.*\\.)instagramtr\.com$
+(^|.*\\.)onlineinstagram\.com$
+(^|.*\\.)web-instagram\.net$
+(^|.*\\.)wwwinstagram\.com$
+(^|.*\\.)instagram-static\.akamaized\.net$
+(^|.*\\.)instagram-press\.akamaized\.net$
 
-(^|.*\.)facebookstories\.com$
-(^|.*\.)facebookgroups\.com$
-(^|.*\.)facebookmarketingpartners\.com$
-(^|.*\.)facebookpartners\.com$
-(^|.*\.)facebooklive\.com$
+(^|.*\\.)facebookstories\.com$
+(^|.*\\.)facebookgroups\.com$
+(^|.*\\.)facebookmarketingpartners\.com$
+(^|.*\\.)facebookpartners\.com$
+(^|.*\\.)facebooklive\.com$
 
-(^|.*\.)internet\.org$
-(^|.*\.)freebasics\.com$
-(^|.*\.)oculus\.com$
-(^|.*\.)oculusvr\.com$
-(^|.*\.)wit\.ai$
-(^|.*\.)friendfeed\.com$
+(^|.*\\.)internet\.org$
+(^|.*\\.)freebasics\.com$
+(^|.*\\.)oculus\.com$
+(^|.*\\.)oculusvr\.com$
+(^|.*\\.)wit\.ai$
+(^|.*\\.)friendfeed\.com$
+
+
+
+.*\\.instagram\.com$
+.*\\.instagr\.am$
+.*\\.ig\.me$
+.*\\.cdninstagram\.com$
+
+.*\\.api\.instagram\.com$
+.*\\.graph\.instagram\.com$
+.*\\.platform\.instagram\.com$
+.*\\.help\.instagram\.com$
+.*\\.business\.instagram\.com$
+.*\\.accountscenter\.instagram\.com$
+.*\\.upload\.instagram\.com$
+.*\\.live\.instagram\.com$
+.*\\.reels\.instagram\.com$
+.*\\.explore\.instagram\.com$
+.*\\.search\.instagram\.com$
+.*\\.hashtags\.instagram\.com$
+.*\\.msg\.instagram\.com$
+.*\\.music\.instagram\.com$
+.*\\.logger\.instagram\.com$
+
+.*\\.i\.instagram\.com$
+.*\\.l\.instagram\.com$
+
+.*\\.static\.cdninstagram\.com$
+.*\\.video\.cdninstagram\.com$
+.*\\.video-[a-z0-9-]+\.cdninstagram\.com$
+.*\\.creative\.cdninstagram\.com$
+.*\\.avatar\.cdninstagram\.com$
+.*\\.audio\.cdninstagram\.com$
+
+.*\\.images\.instagram\.com$
+.*\\.images\.ak\.instagram\.com$
+.*\\.photos-[a-z]\.ak\.instagram\.com$
+
+.*\\.scontent.*\.cdninstagram\.com$
+.*\\.z-p.*\.cdninstagram\.com$
+.*\\.external.*\.cdninstagram\.com$
+.*\\.platform\.cdninstagram\.com$
+
+.*\\.instagram-shv.*\.fbcdn\.net$
+.*\\.telegraph-.*\.instagram\.com$
+
+# ---------- Meta ----------
+
+.*\\.meta\.com$
+.*\\.meta\.ai$
+.*\\.accounts\.meta\.com$
+
+# ---------- Facebook ----------
+
+.*\\.facebook\.com$
+.*\\.fb\.com$
+.*\\.fb\.me$
+.*\\.m\.me$
+.*\\.messenger\.com$
+
+.*\\.graph\.facebook\.com$
+.*\\.graph-video\.facebook\.com$
+.*\\.api\.facebook\.com$
+.*\\.b-graph\.facebook\.com$
+
+.*\\.connect\.facebook\.net$
+.*\\.platform\.facebook\.com$
+.*\\.developers\.facebook\.com$
+
+.*\\.edge-mqtt\.facebook\.com$
+.*\\.mqtt\.facebook\.com$
+.*\\.mqtt-mini\.facebook\.com$
+.*\\.edge-mqtt-mini\.facebook\.com$
+
+.*\\.web\.messenger\.com$
+.*\\.apps\.messenger\.com$
+
+# ---------- CDN Facebook ----------
+
+.*\\.fbcdn\.net$
+.*\\.fbsbx\.com$
+.*\\.lookaside\.fbsbx\.com$
+.*\\.lookaside\.facebook\.com$
+
+.*\\.scontent-.*\.fbcdn\.net$
+.*\\.scontent-.*\.xx\.fbcdn\.net$
+.*\\.static\..*\.fbcdn\.net$
+.*\\.external-.*\.fbcdn\.net$
+.*\\.z-p-.*\.fbcdn\.net$
+
+# ---------- Threads ----------
+
+.*\\.threads\.net$
+.*\\.threads\.com$
+
+# ---------- Outros ----------
+
+.*\\.igimages\.com$
+.*\\.igsonar\.com$
+.*\\.instagram-brand\.com$
+.*\\.instagram-engineering\.com$
+.*\\.instagram-press\.com$
+.*\\.instagram-press\.net$
+.*\\.instagramci\.com$
+.*\\.instagramcn\.com$
+.*\\.instagramdi\.com$
+.*\\.instagramhelp\.com$
+.*\\.instagramium\.com$
+.*\\.instagramm\.com$
+.*\\.instagramn\.com$
+.*\\.instagramq\.com$
+.*\\.instagramtr\.com$
+.*\\.onlineinstagram\.com$
+.*\\.web-instagram\.net$
+.*\\.wwwinstagram\.com$
+.*\\.instagram-static\.akamaized\.net$
+.*\\.instagram-press\.akamaized\.net$
+
+.*\\.facebookstories\.com$
+.*\\.facebookgroups\.com$
+.*\\.facebookmarketingpartners\.com$
+.*\\.facebookpartners\.com$
+.*\\.facebooklive\.com$
+
+.*\\.internet\.org$
+.*\\.freebasics\.com$
+.*\\.oculus\.com$
+.*\\.oculusvr\.com$
+.*\\.wit\.ai$
+.*\\.friendfeed\.com$
